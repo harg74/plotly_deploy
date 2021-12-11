@@ -1,0 +1,31 @@
+.jumbotron{
+    background: url("../static/images/bacteria2.jpg") no-repeat center center;
+    color: rgb(233, 238, 250);
+    background-size: cover
+}
+
+body{
+    background-color: rgb(1, 30, 73);
+}
+
+#bubble{
+    margin-top: 30px;
+}
+
+#welcome-paragraph{
+    color: rgb(233, 238, 250);
+    margin-bottom: 20px;
+    font-size:7ex;
+}
+
+#text{
+    color: rgb(233, 238, 250);
+    margin-bottom: 30px;
+    font-size:x-large;
+}
+
+#subtitle{
+    margin-top: 20px;
+    font-weight:lighter;
+    font-size: xx-large;
+}
