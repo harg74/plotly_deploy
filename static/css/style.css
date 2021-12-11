@@ -1,5 +1,5 @@
 .jumbotron{
-    background: url("../static/images/bacteria2.jpg") no-repeat center center;
+    background: url("../images/bacteria2.jpg") no-repeat center center;
     color: rgb(233, 238, 250);
     background-size: cover
 }
