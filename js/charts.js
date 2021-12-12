@@ -116,6 +116,7 @@ function buildCharts(sample) {
       x: otuIds,
       y: sampleValues,
       mode:'markers',
+      text: otuLabels,
       marker:{
         size: sampleValues,
         color:otuIds
